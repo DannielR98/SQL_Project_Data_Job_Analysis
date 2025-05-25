@@ -201,6 +201,7 @@ LIMIT 15
 - **Notable Balance/Mismatch**: "Snowflake" shows a strong balance, appearing in the top tier for both average salary ($112,948) and demand (37). Conversely, skills like Python and R highlight a potential mismatch where very high demand doesn't necessarily correlate with the highest pay in this dataset
 # What I learned
 
-
-
-# Conclusion
+I have refreshed my memory of SQL and gained confidence in:
+- **Query crafting:** Learned advance SQL, merging tables, CTE's, subqueries, Joins, UNION, COUNT and more
+- **Data Aggregation:** Got comfortable with aggregation functions like GROUP BY and turned aggreage functions like COUNT() and AVG() 
+- **Analytical problem solving:** Improved my real world puzzle solving skills, turning questions into actionable insightful SQL queries and visualization
