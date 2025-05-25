@@ -43,13 +43,6 @@ Find the count of the number of remote jobs postings per skill
     - incldue skill id, name and count of postings requiring the skill
 */
 
-SELECT
-    job_postings_fact.job_id as job_id
-    COUNT 
-FROM
-    job_postings_fact
-INNER JOIN skills_job_dim ON skills_job_dim.job_id = job_postings_fact.job_id
-
 WITH remote_job_skills AS (
     SELECT
         skill_id,
