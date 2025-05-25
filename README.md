@@ -91,7 +91,7 @@ ORDER BY
     top_jobs.salary_year_avg
 ```
 
-![alt text](project_sql\visualization\Figure_2.png)
+![alt text](project_sql/visualization/Figure_2.png)
 
 Here’s what we’re seeing across those top-paying roles:
 - SQL is ubiquitous—it appears in all 8 unique roles (100% of them).
@@ -126,7 +126,7 @@ LIMIT 15
 ```
 
 
-![alt text](project_sql\visualization\Figure_3.png)
+![alt text](project_sql/visualization/Figure_3.png)
 
 - SQL leads by a wide margin (~7,300 mentions)
 - Excel (4,600) and Python (4,300) are the next most in-demand
@@ -157,7 +157,7 @@ ORDER BY
 LIMIT 15
 ```
 
-![alt text](project_sql\visualization\Figure_4.png)
+![alt text](project_sql/visualization/Figure_4.png)
 
 **Takeaways**
 - **Big data and CI/CD top the list**: PySpark leads with an average salary of $208 172, followed by Bitbucket at $189 155, underscoring the high compensation for scalable data frameworks and DevOps/version-control expertise.
