@@ -203,5 +203,5 @@ LIMIT 15
 
 I have refreshed my memory of SQL and gained confidence in:
 - **Query crafting:** Learned advance SQL, merging tables, CTE's, subqueries, Joins, UNION, COUNT and more
-- **Data Aggregation:** Got comfortable with aggregation functions like GROUP BY and turned aggreage functions like COUNT() and AVG() 
+- **Data Aggregation:** Got comfortable with aggregation functions like GROUP BY and used aggreage functions like COUNT() and AVG() 
 - **Analytical problem solving:** Improved my real world puzzle solving skills, turning questions into actionable insightful SQL queries and visualization
